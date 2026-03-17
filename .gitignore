@@ -1,0 +1,25 @@
+# Node modules
+node_modules/
+
+# Config files (contains API keys)
+*-config.json
+*-state.json
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.backup
+*.bak
